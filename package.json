@@ -1,0 +1,9 @@
+{
+  "name": "electron-aincrad",
+  "version": "0.0.1",
+  "description": "Aincrad System",
+  "main": "index.js",
+  "repository": "git@github.com:AlysonDEV/electron-aincrad.git",
+  "author": "AlysonDEV <devalyson@gmail.com>",
+  "license": "MIT"
+}
